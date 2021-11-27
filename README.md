@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diarih
 - 👀 I’m interested in front end dev and some projects that similiar
-- 🌱 I’m currently learning React js by far
+- 🌱 I’m currently learning Express JS by far
 - 📫 How to reach me: diarihza@gmail.com
   
 
